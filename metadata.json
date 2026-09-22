@@ -1,0 +1,6 @@
+{
+  "name": "NexusEng College ERP & Remote Campus",
+  "description": "Comprehensive Engineering College ERP and collaboration portal for faculty, students, and administrators with real-time attendance, academic performance analytics, remote classroom messaging, offline course materials, and event management.",
+  "requestFramePermissions": ["geolocation", "camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
